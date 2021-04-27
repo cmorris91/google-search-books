@@ -45,26 +45,27 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Contact
+email: chelseymorris91@yahoo.com
+[link to LinkedIn!](https://www.linkedin.com/in/chelsey-morris-758590204/)
+[link to Github!](http://github.com/cmorris91)
 
-### Analyzing the Bundle Size
+## Contributions
+Chelsey Morris is the sole author on this project
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Screenshots
+![screenshot 1](./images/ScreenShot1.png)
+![screenshot 2](./images/ScreenShot2.png)
+![screenshot 3](./images/ScreenShot3.png)
 
-### Making a Progressive Web App
+# links
+Deployed:
+https://cmorris91.github.io/Portfolio-homework/
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Repo:
+https://github.com/cmorris91/google-search-books
 
-### Advanced Configuration
+## License 
+![GitHub license](https://img.shields.io/badge/license-APACHE-blue.svg)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
