@@ -61,7 +61,7 @@ Chelsey Morris is the sole author on this project
 
 # links
 Deployed:
-https://cmorris91.github.io/Portfolio-homework/
+https://tranquil-spire-84426.herokuapp.com
 
 Repo:
 https://github.com/cmorris91/google-search-books
